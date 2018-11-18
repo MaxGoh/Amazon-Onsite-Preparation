@@ -18,7 +18,7 @@
 
 > EPI
 - [ ] Implement a stack with max API
-- [ ] Implement a circular queue
+- [x] Implement a circular queue
 - [ ] Implement a circular stack
 - [ ] Implement a queue using stacks
 - [ ] Implement a queue with max API
