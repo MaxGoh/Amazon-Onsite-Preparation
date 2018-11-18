@@ -8,11 +8,11 @@ class Queue:
         self.queue = deque()
         self.size = 0
 
-    def push(self, val):
+    def enqueue(self, val):
         self.queue.appendleft(val)
         self.size += 1
 
-    def pop(self):
+    def dequeue(self):
         self.queue.popleft()
         self.size -= 1
 
@@ -24,10 +24,10 @@ class Queue:
 
 if __name__ == "__main__":
     q = Queue()
-    q.push(5)
-    q.push(4)
-    q.push(3)
+    q.enqueue(5)
+    q.enqueue(4)
+    q.enqueue(3)
     q.print()
-    q.pop()
+    q.dequeue()
     q.print()
 
