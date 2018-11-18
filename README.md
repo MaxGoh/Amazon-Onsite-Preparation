@@ -32,7 +32,7 @@
 - [ ] Compute the lowest common ancestor in a binary tree
 - [ ] Sum the root-to-leaf paths n a binary tree
 - [ ] Find a root to leaf path with specified sum
-- [ ] Implement an ignorer traversal without recursion
+- [ ] Implement an ignore traversal without recursion
 - [ ] Compute the nth node in an ignorer traversal
 - [ ] Compute the successor
 - [ ] Reconstruct a binary tree from traversal data
@@ -64,7 +64,7 @@
 
 > EPI
 - [ ] Compute the intersection of two sorted arrays
-- [ ] Merge two sorted arrays
+- [x] Merge two sorted arrays
 - [ ] Computing the h-index
 - [ ] Merging intervals
 - [ ] Implement a fast sorting algorithm for list
