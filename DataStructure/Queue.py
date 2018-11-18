@@ -9,7 +9,7 @@ class Queue:
         self.size = 0
 
     def enqueue(self, val):
-        self.queue.appendleft(val)
+        self.queue.append(val)
         self.size += 1
 
     def dequeue(self):
