@@ -20,7 +20,7 @@
 - [ ] Implement a stack with max API
 - [x] Implement a circular queue
 - [ ] Implement a circular stack
-- [ ] Implement a queue using stacks
+- [x] Implement a queue using stacks
 - [ ] Implement a queue with max API
 
 ----
