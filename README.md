@@ -1,8 +1,5 @@
 # Amazon On-site Preparation
 
-
-### Technical Assessment
-
 -----
 ::Linked List::
 
@@ -120,8 +117,24 @@
 - [ ] Search a maze
 - [ ] Clone a graph
 
+---
+> Geeksforgeeks
 
-
+- [ ] Reverse a linked list in groups of size k
+- [ ] Given two numbers represented by two linked lists, write a function that returns sum list
+- [ ] Rotate a matrix by 90 degree
+- [ ] Next greater element
+- [ ] Maximum sum subarray such that no elements are consecutive
+- [ ] Swap the kth element from starting and from the end position 
+- [ ] Find the nth element of spiral matrix
+- [ ] Find the kth smallest element in row wise and column wise sorted matrix
+- [ ] Find the second largest and second smallest in a given array in single traversal.
+- [ ] Minimum swaps required to arrange pairs
+- [ ] Minimum cost required to travel from top left to the bottom right in a matrix
+- [ ] Min distance between two given nodes of a binary tree
+- [ ] Detect cycle in a directed graph
+- [ ] Find the number of island
+- [ ] Implement LRU cache
 
 
 
